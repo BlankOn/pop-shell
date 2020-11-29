@@ -1,3 +1,9 @@
+pop-shell (1.0.0blankon1) verbeek; urgency=medium
+
+  * First stable release on BlankOn fork.
+
+ -- Herpiko Dwi Aguno <herpiko@gmail.com>  Thu, 29 Nov 2020 14:05:36 -0600
+
 pop-shell (1.0.0) focal; urgency=medium
 
   * First stable release
